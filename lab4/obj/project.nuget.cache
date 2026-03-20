@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SA8u1GWlDoU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diabl\\source\\repos\\lab4\\lab4\\lab4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diabl\\.nuget\\packages\\fsharp.core\\10.0.104\\fsharp.core.10.0.104.nupkg.sha512"
+  ],
+  "logs": []
+}
