@@ -29,7 +29,8 @@
 Программа выводит на экран сгенерированное случайное дерево в виде повернутой на 90 градусов структуры, применяет к нему функцию `mapTree` и выводит полученное преобразованное дерево.
 
 ### Тестирование
-<img width="484" height="344" alt="image" src="https://github.com/user-attachments/assets/f99fbbee-81a7-41f4-a0e4-4efb7daba315" />
+<img width="1029" height="418" alt="image" src="https://github.com/user-attachments/assets/23f745f1-7b8e-4061-9ff0-da0ab6b214b4" />
+
 
 
 # Задание 2
@@ -55,4 +56,4 @@
 К построенному дереву применяется функция свертки. Программа выводит на экран структуру сгенерированного дерева и печатает итоговый список значений тех узлов, у которых левый и правый дочерние элементы оказались листьями.
 
 ### Тестирование
-<img width="506" height="236" alt="image" src="https://github.com/user-attachments/assets/64648f0e-af3b-43d7-ab64-4224b37a40c2" />
+<img width="1467" height="485" alt="image" src="https://github.com/user-attachments/assets/37be4d2e-6624-4b6d-a602-a27fc112fc91" />
